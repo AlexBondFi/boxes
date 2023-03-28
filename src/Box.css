@@ -1,0 +1,10 @@
+.box {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    margin: 5rem 1rem;
+    width: 12rem;
+    height: 12rem;
+    border: solid 2px black;
+    justify-content: center;
+}
